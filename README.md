@@ -1,6 +1,6 @@
 screendiffer
 ============
-
+```
 requires phantomjs    - http://phantomjs.org/download.html
 requires casperjs     - http://casperjs.org/installation.html
 
