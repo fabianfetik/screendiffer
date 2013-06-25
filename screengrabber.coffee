@@ -25,7 +25,7 @@ nextResolution = ->
   width = requestedResolutions[currentRes][0]
   height = requestedResolutions[currentRes][1]
 
-  image = "#{path}#{name}-#{currentURL}-#{width}.png"
+  image = "#{path}#{name}-#{currentURL}-#{width}-#{height}.png"
 
   @viewport width, height
 
